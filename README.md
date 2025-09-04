@@ -7,9 +7,8 @@
 
 Шаги по запуску
 1. **Клонируйте репозиторий**:
-   ```bash
-   git clone <URL>
-   cd <repository_name>
+git clone <URL>
+cd <repository_name>
 2.Создайте файл .env и заполните его данными для подключения к базе данных:
 POSTGRES_DB=dataproject
 POSTGRES_USER=Mitya
